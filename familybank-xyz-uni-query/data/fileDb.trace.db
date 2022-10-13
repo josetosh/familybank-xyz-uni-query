@@ -1,0 +1,12 @@
+2022-10-13 12:28:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found (this database is empty); SQL statement:
+select student0_.id as id1_0_, student0_.email as email2_0_, student0_.course_id as course_i3_0_, student0_.created_date as created_4_0_, student0_.dob as dob5_0_, student0_.first_name as first_na6_0_, student0_.gender as gender7_0_, student0_.last_name as last_nam8_0_, student0_.middle_name as middle_n9_0_, student0_.reg_no as reg_no10_0_ from student student0_ where student0_.reg_no=? [42104-214]
+2022-10-13 20:22:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found (this database is empty); SQL statement:
+select student0_.id as id1_0_, student0_.email as email2_0_, student0_.course_id as course_i3_0_, student0_.created_date as created_4_0_, student0_.dob as dob5_0_, student0_.first_name as first_na6_0_, student0_.gender as gender7_0_, student0_.last_name as last_nam8_0_, student0_.middle_name as middle_n9_0_, student0_.reg_no as reg_no10_0_ from student student0_ where student0_.reg_no=? [42104-214]
+2022-10-13 20:22:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found (this database is empty); SQL statement:
+select student0_.id as id1_0_, student0_.email as email2_0_, student0_.course_id as course_i3_0_, student0_.created_date as created_4_0_, student0_.dob as dob5_0_, student0_.first_name as first_na6_0_, student0_.gender as gender7_0_, student0_.last_name as last_nam8_0_, student0_.middle_name as middle_n9_0_, student0_.reg_no as reg_no10_0_ from student student0_ where student0_.reg_no=? [42104-214]
+2022-10-13 20:22:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found (this database is empty); SQL statement:
+select student0_.id as id1_0_, student0_.email as email2_0_, student0_.course_id as course_i3_0_, student0_.created_date as created_4_0_, student0_.dob as dob5_0_, student0_.first_name as first_na6_0_, student0_.gender as gender7_0_, student0_.last_name as last_nam8_0_, student0_.middle_name as middle_n9_0_, student0_.reg_no as reg_no10_0_ from student student0_ where student0_.reg_no=? [42104-214]
